@@ -720,7 +720,7 @@ persistence:
   storageClass:
   annotations: {}
   accessMode: "ReadWriteOnce"
-  size: "8Gi"
+  size: "2Gi"
   volumes:
   #  - name: nothing
   #    emptyDir: {}
